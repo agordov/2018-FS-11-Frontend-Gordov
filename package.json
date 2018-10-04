@@ -1,7 +1,6 @@
 {
   "name": "messenger",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/agordov/2018-FS-11-Frontend-Gordov/issues"
   },
-  "homepage": "https://github.com/agordov/2018-FS-11-Frontend-Gordov#readme"
+  "homepage": "https://github.com/agordov/2018-FS-11-Frontend-Gordov#readme",
+  "description": ""
 }
