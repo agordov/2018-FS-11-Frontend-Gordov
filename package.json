@@ -15,5 +15,14 @@
     "url": "https://github.com/agordov/2018-FS-11-Frontend-Gordov/issues"
   },
   "homepage": "https://github.com/agordov/2018-FS-11-Frontend-Gordov#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.20.2"
+  },
+  "dependencies": {
+    "lodash": "latest"
+  }
 }
